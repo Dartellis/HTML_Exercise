@@ -1,0 +1,9 @@
+.container {
+  position: relative;
+  height: 14rem;
+  border: 1px solid;
+}
+
+.gallery {
+  transform: translateY(40%);
+}
